@@ -1,6 +1,6 @@
 ## About Me
 
-I'm an independent consultant / senior developer with an expertise in Microsoft technologies like C#, ASP.NET, TypeScript and more. I generally blog & podcast about software design & code-quality related areas. I live in Canada 🍁 and work remotely 👨‍💻. 
+I'm an independent consultant / senior developer with an expertise in Microsoft technologies like C#, ASP.NET, TypeScript and more. I live in Canada 🍁 and work remotely 👨‍💻. 
 
 Career highlights include:
 
