@@ -1,6 +1,8 @@
 ## About Me
 
-I'm an independent consultant / senior developer with an expertise in Microsoft technologies like C#, ASP.NET, TypeScript and more. I generally blog & podcast about software design & code-quality related areas. Career highlights include:
+I'm an independent consultant / senior developer with an expertise in Microsoft technologies like C#, ASP.NET, TypeScript and more. I generally blog & podcast about software design & code-quality related areas. I live in Canada 🍁 and work remotely 👨‍💻. 
+
+Career highlights include:
 
 - I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003843)
 - Creator of open-source .NET micro-framework [Coravel](https://github.com/jamesmh/coravel) having over 1200 stars and 140,000 downloads (and climbing!)
