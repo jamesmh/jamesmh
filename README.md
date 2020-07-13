@@ -19,5 +19,5 @@ Career highlights include:
 
 ## Want To Work With Me?
 
-I help design software products/projects, guide development teams to be effective and build custom software for clients. Check out [my website](https://www.jamesmichaelhickey.com) for more about working with me.
+Check out [my website](https://www.jamesmichaelhickey.com) for more about working with me.
 
