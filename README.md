@@ -7,7 +7,7 @@ I'm an independent consultant / senior developer with an expertise in Microsoft 
 - Co-host of [The Loosely Coupled Show](https://www.youtube.com/channel/UCNX9EQV4aEfa6fa9o6qcdEQ) where 4X Microsoft MVP [Derek Comartin](https://codeopinion.com/) and I chat about software design and interview industry experts
 - Author of [Refactoring TypeScript: Keeping Your Code Healthy](https://www.packtpub.com/web-development/refactoring-typescript)
 
-# Around The Web
+### Around The Web
 
 - My main site at [jamesmichaelhickey.com](https://www.jamesmichaelhickey.com)
 - [Twitter](https://twitter.com/jamesmh_dev)
@@ -15,7 +15,7 @@ I'm an independent consultant / senior developer with an expertise in Microsoft 
 - [Dev.to](https://dev.to/jamesmh)
 - [YouTube](https://www.youtube.com/channel/UCRafEj0oNnAxrHhDwe73QCQ)
 
-# Want To Work With Me?
+### Want To Work With Me?
 
 I can help with designing software products/projects, helping guide a development team to be more effective and I build custom software for clients too. Check out [my website](https://www.jamesmichaelhickey.com) for more about how to get in touch, etc.
 
