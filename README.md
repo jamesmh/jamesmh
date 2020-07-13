@@ -1,6 +1,6 @@
 ## About Me
 
-I'm an independent consultant / senior developer with a focus on software architecture and design & expertise in Microsoft technologies like C#, .NET Core and TypeScript. I live in Canada 🍁 and work remotely 👨‍💻. 
+I'm an independent consultant / senior developer with a focus on software architecture and design. My expertise is in Microsoft technologies like C#, .NET Core and TypeScript. I live in Canada 🍁 and work remotely 👨‍💻. 
 
 Career highlights include:
 
