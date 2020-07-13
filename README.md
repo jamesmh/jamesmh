@@ -1,6 +1,6 @@
 ## About Me
 
-I'm an independent consultant / senior developer with an expertise in Microsoft technologies like C#, ASP.NET, TypeScript and more. I live in Canada 🍁 and work remotely 👨‍💻. 
+I'm an independent consultant / senior developer with a focus on software architecture and design & expertise in Microsoft technologies like C#, .NET Core and TypeScript. I live in Canada 🍁 and work remotely 👨‍💻. 
 
 Career highlights include:
 
@@ -11,7 +11,7 @@ Career highlights include:
 
 ## Around The Web
 
-- My main site at [jamesmichaelhickey.com](https://www.jamesmichaelhickey.com)
+- My web site at [jamesmichaelhickey.com](https://www.jamesmichaelhickey.com)
 - [Twitter](https://twitter.com/jamesmh_dev)
 - [LinkedIn](https://www.linkedin.com/in/jamesmhickey/)
 - [Dev.to](https://dev.to/jamesmh)
@@ -19,5 +19,5 @@ Career highlights include:
 
 ## Want To Work With Me?
 
-I help design software products/projects, guide development teams to be more effective and I build custom software for clients. Check out [my website](https://www.jamesmichaelhickey.com) for more about how to get in touch, etc.
+I help design software products/projects, guide development teams to be effective and I build custom software for clients. Check out [my website](https://www.jamesmichaelhickey.com) for more about how to get in touch, etc.
 
